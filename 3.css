@@ -1,0 +1,94 @@
+#one{
+	
+	width:600px;
+	background:#335599;
+	float:left;
+	color:white;
+
+}
+#two{
+
+	height: 81px;
+	width:650px;
+	background:#335599;
+	float:left;
+	color:#ffffff;
+    
+
+}
+.vin{
+    border-width: 1px;
+    border-radius:3px;
+}
+#vvi{
+    border-radius:5px;
+    border-width:1px;
+}
+#v{
+	font-size: 20px;
+    font-display: auto;
+    padding-bottom: 10px;
+    font-weight: normal;
+}
+select{
+    font-size: 17px;
+}
+#vv{
+	
+	float: right;
+	margin-right: 40px;
+    padding-bottom:10px;
+    font-size:27px;
+    
+}
+
+span{
+	margin-right: 100px;		
+}
+
+
+
+#three{
+	float:right;
+	margin-right:200px;
+	font-size: 18px;
+	
+
+}
+body{
+	
+
+	background:#eeedff;
+	margin-top:00px;
+    border-radius::10x;
+	
+	
+}
+img{
+	float: left;
+}
+#f{
+	float:right;
+	margin-right:200px;
+	margin-top: 00px
+}
+#p1{
+	color:#4477aa;
+}
+p{
+	
+	margin-left:100px;
+	font-size:30px;
+	margin-top:60px;
+
+}
+h1{
+	margin-left:100px;
+
+}
+img{
+	 opacity: 0.75;
+	margin-left:100px;
+	width:500px;
+	height:200px
+}
