@@ -26,15 +26,15 @@
     border-width:1px;
 }
 #v{
-	font-size: 20px;
+    font-size: 20px;
     font-display: auto;
     padding-bottom: 10px;
     font-weight: normal;
 	
   }
 select{
-    font-size: 17px;
-}
+   	 font-size: 17px;
+      }
 #vv{
 	
 	float: right;
